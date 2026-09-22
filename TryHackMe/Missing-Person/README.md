@@ -26,3 +26,8 @@ This write-up is intended for educational purposes to help beginners understand 
 - [Conclusion](#conclusion)
 
 ## Introduction
+
+This write-up covers my investigation of the **Missing Person** room on TryHackMe.
+
+The challenge uses OSINT techniques to identify locations, people, and other clues from publicly available information. I’ll briefly explain the **approach, tools, and reasoning** used to follow each clue rather than simply listing the answers.
+
