@@ -36,7 +36,7 @@ The challenge uses OSINT techniques to identify locations, people, and other clu
 
 ## Scenario
 
-![TryHackMe Missing Person Scenario](Scenario.png)
+![TryHackMe Missing Person Scenario](Scenario.jpeg)
 
 > **Task 1 – OSINT**
 >
