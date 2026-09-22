@@ -21,7 +21,6 @@ This write-up is intended for educational purposes. It focuses on the **OSINT me
 
 * [Introduction](#introduction)
 * [Scenario](#scenario)
-* [Learning Objectives](#learning-objectives)
 * [Tools Used](#tools-used)
 * [Investigation](#investigation)
 * [Key Takeaways](#key-takeaways)
@@ -40,14 +39,6 @@ The challenge uses OSINT techniques to identify locations, people, and other clu
 A friend went on holiday in 2025 and shared some photos, but has since stopped communicating. The investigation starts with a few photos and a message about a **MotoGP after-party** and a local DJ.
 
 The goal is to follow these clues using OSINT and determine where the person went and who they interacted with.
-
-## Learning Objectives
-
-* Understand basic OSINT investigation methodology
-* Extract useful information from images
-* Use metadata and reverse searching
-* Correlate information from different sources
-* Follow digital clues across websites and social media
 
 ## Tools Used
 
