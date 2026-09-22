@@ -1,4 +1,4 @@
-# TryHackMe: Missing Person Walkthrough – A Beginner's Guide to OSINT
+# TryHackMe: Missing Person Walkthrough
 
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)
 ![Category](https://img.shields.io/badge/Category-OSINT-blue)
