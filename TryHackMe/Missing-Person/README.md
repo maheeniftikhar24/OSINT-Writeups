@@ -3,6 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)
 ![Category](https://img.shields.io/badge/Category-OSINT-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
+
 ![TryHackMe Missing Person Room](Missing%20Person%20room.jpeg)
 
 > **Room:** [TryHackMe – Missing Person](https://tryhackme.com/room/missingperson)
@@ -14,7 +15,7 @@
 
 This write-up is intended for educational purposes. It focuses on the **OSINT methodology and reasoning** used to solve the challenge rather than simply listing answers.
 
-> 📄 **Detailed Walkthrough:** [View the full PDF](./Missing-Person-Walkthrough.pdf)
+> 📄 **Detailed Walkthrough:** [View the full PDF walkthrough](./Missing-Person-Walkthrough.pdf)
 
 ## Table of Contents
 
@@ -24,8 +25,9 @@ This write-up is intended for educational purposes. It focuses on the **OSINT me
 * [Tools Used](#tools-used)
 * [Investigation](#investigation)
 * [Key Takeaways](#key-takeaways)
-* [Conclusion](#conclusion)
 * [Final Answers](#final-answers)
+* [GitHub Support](#github-support)
+* [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -147,21 +149,29 @@ The number was:
 * Social media can reveal useful connections between people, places, and businesses.
 * Avoid relying on a single search result; **verify important findings**.
 
+## Final Answers
+
+| # | Answer                                                                        |
+| - | ----------------------------------------------------------------------------- |
+| 1 | Pertamina Mandalika International Street Circuit                              |
+| 2 | 03-05/10/2025                                                                 |
+| 3 | Cantina Mexicana                                                              |
+| 4 | 19:55:30                                                                      |
+| 5 | Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat |
+| 6 | Bong Leleh                                                                    |
+| 7 | Gua Sumur                                                                     |
+| 8 | 085333137345                                                                  |
+
+## GitHub Support
+
+If you found this write-up useful, consider giving the repository a **⭐ Star** on GitHub.
+
+It helps support my cybersecurity and OSINT learning journey and encourages me to continue documenting more investigations and write-ups.
+
+**Found an issue or have a suggestion?** Feel free to open an issue or share your feedback.
+
 ## Conclusion
 
 The **Missing Person** room demonstrates how a simple photo can lead to a larger OSINT investigation.
 
 The key lesson is to treat every piece of information as a potential **pivot point** and gradually connect clues until the full picture becomes clear.
-
-## Final Answers
-
-| # | Answer |
-|---|---|
-| 1 | Pertamina Mandalika International Street Circuit |
-| 2 | 03-05/10/2025 |
-| 3 | Cantina Mexicana |
-| 4 | 19:55:30 |
-| 5 | Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat |
-| 6 | Bong Leleh |
-| 7 | Gua Sumur |
-| 8 | 085333137345 |
