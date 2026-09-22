@@ -154,13 +154,13 @@ The number was:
 | 7 | Gua Sumur                                                                     |
 | 8 | 085333137345                                                                  |
 
-## GitHub Support
+## ⭐ Support
 
-If you found this write-up useful, consider giving the repository a **⭐ Star** on GitHub.
+If you found this write-up useful, consider giving this repository a **⭐ Star** on GitHub.
 
-It helps support my cybersecurity and OSINT learning journey and encourages me to continue documenting more investigations and write-ups.
+Your support helps me continue documenting my **cybersecurity and OSINT learning journey** and creating more technical write-ups.
 
-**Found an issue or have a suggestion?** Feel free to open an issue or share your feedback.
+If you have any **suggestions, corrections, or feedback**, feel free to open an issue.
 
 ## Conclusion
 
