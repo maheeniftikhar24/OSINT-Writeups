@@ -145,16 +145,16 @@ The number was:
 
 ## Final Answers
 
-| # | Answer                                                                        |
-| - | ----------------------------------------------------------------------------- |
-| 1 | Pertamina Mandalika International Street Circuit                              |
-| 2 | 03-05/10/2025                                                                 |
-| 3 | Cantina Mexicana                                                              |
-| 4 | 19:55:30                                                                      |
-| 5 | Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat |
-| 6 | Bong Leleh                                                                    |
-| 7 | Gua Sumur                                                                     |
-| 8 | 085333137345                                                                  |
+| # | Question | Answer |
+|---|---|---|
+| 1 | MotoGP circuit | Pertamina Mandalika International Street Circuit |
+| 2 | Event date | 03-05/10/2025 |
+| 3 | Restaurant | Cantina Mexicana |
+| 4 | Photo time | 19:55:30 |
+| 5 | After-party location | Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat |
+| 6 | DJ stage name | Bong Leleh |
+| 7 | Cave | Gua Sumur |
+| 8 | Tour business number | 085333137345 |
 
 ## GitHub Support
 
