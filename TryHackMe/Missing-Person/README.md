@@ -51,8 +51,6 @@ The task provides a downloadable ZIP file containing the materials needed to beg
 
 ## Investigation
 
-> The investigation below provides a brief overview of the main OSINT steps. For the complete methodology, searches, evidence, and screenshots, see the [Detailed PDF Walkthrough](./Missing-Person-Walkthrough.pdf).
-
 ### 1. Identify the MotoGP Circuit
 
 The first clue was the MotoGP photo.
