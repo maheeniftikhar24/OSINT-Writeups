@@ -36,9 +36,14 @@ The challenge uses OSINT techniques to identify locations, people, and other clu
 
 ## Scenario
 
-A friend went on holiday in 2025 and shared some photos, but has since stopped communicating. The investigation starts with a few photos and a message about a **MotoGP after-party** and a local DJ.
+![TryHackMe Missing Person Scenario](Scenario.png)
 
-The goal is to follow these clues using OSINT and determine where the person went and who they interacted with.
+> **Task 1 – OSINT**
+>
+> *"My friend went on holiday in 2025 and shared some photos, but I haven't heard from him since. Can you help me track him down for the police report?"*
+
+The task provides a downloadable ZIP file containing the materials needed to begin the investigation.
+
 
 ## Tools Used
 
