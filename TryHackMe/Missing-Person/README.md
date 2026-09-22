@@ -3,6 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)
 ![Category](https://img.shields.io/badge/Category-OSINT-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
+![TryHackMe Missing Person Room](Missing%20Person%20room.jpeg)
 
 > **Room:** [TryHackMe – Missing Person](https://tryhackme.com/room/missingperson)
 > **Platform:** TryHackMe
