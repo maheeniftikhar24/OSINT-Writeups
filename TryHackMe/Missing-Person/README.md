@@ -25,6 +25,7 @@ This write-up is intended for educational purposes. It focuses on the **OSINT me
 * [Investigation](#investigation)
 * [Key Takeaways](#key-takeaways)
 * [Conclusion](#conclusion)
+* [Final Answers](#final-answers)
 
 ## Introduction
 
