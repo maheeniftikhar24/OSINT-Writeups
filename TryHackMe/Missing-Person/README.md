@@ -15,7 +15,7 @@
 
 This write-up is intended for educational purposes. It focuses on the **OSINT methodology and reasoning** used to solve the challenge rather than simply listing answers.
 
-> 📄 **Detailed Walkthrough:** [View the full PDF walkthrough](./Missing-Person-Walkthrough.pdf)
+> 📄 **Detailed Walkthrough:** Coming soon
 
 ## Table of Contents
 
