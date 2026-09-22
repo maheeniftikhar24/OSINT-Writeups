@@ -14,6 +14,8 @@
 
 This write-up is intended for educational purposes. It focuses on the **OSINT methodology and reasoning** used to solve the challenge rather than simply listing answers.
 
+> 📄 **Detailed Walkthrough:** [View the full PDF](./Missing-Person-Walkthrough.pdf)
+
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -149,3 +151,16 @@ The number was:
 The **Missing Person** room demonstrates how a simple photo can lead to a larger OSINT investigation.
 
 The key lesson is to treat every piece of information as a potential **pivot point** and gradually connect clues until the full picture becomes clear.
+
+## Final Answers
+
+| # | Answer |
+|---|---|
+| 1 | Pertamina Mandalika International Street Circuit |
+| 2 | 03-05/10/2025 |
+| 3 | Cantina Mexicana |
+| 4 | 19:55:30 |
+| 5 | Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat |
+| 6 | Bong Leleh |
+| 7 | Gua Sumur |
+| 8 | 085333137345 |
