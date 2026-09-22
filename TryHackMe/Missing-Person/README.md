@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-OSINT-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
 
-> **Room:** Missing Person
+> Room: TryHackMe – Missing Person
 > **Platform:** TryHackMe
 > **Difficulty:** Easy
 > **Category:** OSINT (Open Source Intelligence)
