@@ -3,7 +3,6 @@
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)
 ![Category](https://img.shields.io/badge/Category-OSINT-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 > **Room:** Missing Person
 > **Platform:** TryHackMe
