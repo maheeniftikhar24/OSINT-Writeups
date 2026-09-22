@@ -154,7 +154,7 @@ The number was:
 | 7 | Gua Sumur                                                                     |
 | 8 | 085333137345                                                                  |
 
-## ⭐ Support
+## GitHub Support
 
 If you found this write-up useful, consider giving this repository a **⭐ Star** on GitHub.
 
